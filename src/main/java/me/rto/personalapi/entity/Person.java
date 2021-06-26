@@ -1,4 +1,4 @@
-package me.rto.personalapi.controller.entity;
+package me.rto.personalapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
