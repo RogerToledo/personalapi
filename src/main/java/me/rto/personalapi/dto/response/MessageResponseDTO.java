@@ -1,4 +1,4 @@
-package me.rto.personalapi.dto;
+package me.rto.personalapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
